@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Egor
+- 👀 I’m interested in front-end development, react.js, myabe next,js and volleyball
+- 🌱 I’m currently learning javascript
+- 📫 linkedIn: https://www.linkedin.com/in/egor-prus-nik/
